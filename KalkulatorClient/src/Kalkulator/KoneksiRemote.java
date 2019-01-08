@@ -10,7 +10,7 @@ import java.rmi.RemoteException;
 
 /**
  *
- * @author mario
+ * @author Pegasus
  */
 public interface KoneksiRemote extends Remote {
     double valor1Obtener(double valor1) throws RemoteException;
