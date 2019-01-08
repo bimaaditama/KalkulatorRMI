@@ -8,7 +8,7 @@ import java.rmi.Remote;
 import java.rmi.RemoteException;
 /**
  *
- * @author mario
+ * @author Pegasus
  */
 
 public interface KoneksiRemote extends Remote {
