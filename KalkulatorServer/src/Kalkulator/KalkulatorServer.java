@@ -15,7 +15,7 @@ import java.rmi.server.UnicastRemoteObject;
 
 /**
  *
- * @author mario
+ * @author Pegasus
  */
 public class KalkulatorServer extends javax.swing.JFrame {
 
