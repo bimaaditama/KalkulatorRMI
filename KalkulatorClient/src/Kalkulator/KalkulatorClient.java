@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mario
+ * @author Pegasus
  */
 public class KalkulatorClient extends javax.swing.JFrame {
 
